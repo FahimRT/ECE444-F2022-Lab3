@@ -11,8 +11,9 @@ The deployed version can be found at https://lab3-docker.herokuapp.com.
 
 #Act 3
 
+#GOD BLESS THAT ANNOUNCEMENT
 
-<img width="1432" alt="ECE444_Lab3_Act3" src="https://user-images.githubusercontent.com/50860386/194208849-bcd1e55a-1dba-47fc-a245-c5d33cc67c37.png">
+<img width="1310" alt="ECE444_Act3" src="https://user-images.githubusercontent.com/50860386/194440462-25a61807-156d-4131-9248-a360fb33ab27.png">
 
 
 #Act 4
